@@ -1,3 +1,1 @@
-# FTC-Robotics
-<a href="https://www.firstinspires.org/robotics/ftc">FirstInspires | First Tech Challenge</a>
-Contact: Taha@Tahasalman.xyz , Discord; paradox.py
+Colour masking objects using python and cv2.
